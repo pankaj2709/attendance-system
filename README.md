@@ -27,15 +27,20 @@ A modern web-based attendance tracking system with selfie-based clock-in and clo
 
 ## 📸 Screenshots
 
+### 📝 Register Page
+![Register](screenshots/register.png)
+
+
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![login](screenshots/login.png)
+
 
 ### 📊 Employee Dashboard
-![Dashboard](screenshots/employeeDashboard.png)
+![employeeDashboard](screenshots/employeeDashboard.png)
 
 
 ### 🛠️ Admin Panel
-![Admin](screenshots/adminDashboard.png)
+![adminDashboard](screenshots/adminDashboard.png)
 
 ----------------------------------------------------------------------------------------------------
 
